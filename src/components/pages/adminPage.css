@@ -1,0 +1,15 @@
+.progress-bar{
+    height: 4px;
+    background-color: #53abee;
+    animation: progressBarAnimation 4s linear;
+    width:100%;
+}
+
+@keyframes progressBarAnimation {
+    0%{
+        width: 100%;
+    }
+    100%{
+        width: 0%;
+    }
+}
