@@ -65,7 +65,7 @@ const handleSubmit=(e)=>{
 {isDataSended &&
     <li>
             <div className="progress-bar"></div>
-            <p>Personnage créé ! </p>
+            <p>L'oeuvre a bien été ajoutée à la base de donnée </p>
         </li>
 
 }
